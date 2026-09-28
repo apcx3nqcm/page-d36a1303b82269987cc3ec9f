@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7f978b843661890192991563",
+  "owner": "apcx3nqcm",
+  "repo": "page-d36a1303b82269987cc3ec9f",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d36a1303b82269987cc3ec9f",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "12c0af1a880cdba1879ff0870beb525e0ca9d330a99310f7fbabe163a05c93c5",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN提供基础版、旗舰版、团队版套餐，涵盖极速流量、设备支持、流媒体解锁等功能。立即下载官方客户端，享受稳定高速的网络加速服务。",
+          "AI_DESCRIPTION": "魔戒VPN提供基础版、旗舰版、团队版套餐，涵盖极速流量、设备支持、流媒体解锁等功能。立即下载官方客户端，享受稳定高速的网络加速服务。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n<style>\n  body {\n    background: linear-gradient(to bottom, #0A2540, #1E3A5F);\n    color: #E0E0E0;\n    font-family: system-ui, -apple-system, sans-serif;\n    margin: 0;\n    padding: 0;\n    line-height: 1.6;\n  }\n  main {\n    max-width: 800px;\n    margin: 0 auto;\n    padding: 20px;\n  }\n  h1 {\n    color: #00D4FF;\n    text-align: center;\n    font-size: 2.8em;\n    margin-bottom: 10px;\n  }\n  h2 {\n    color: #00BFFF;\n    font-size: 1.8em;\n    margin: 30px 0 15px;\n    border-bottom: 2px solid #00D4FF;\n    padding-bottom: 10px;\n  }\n  p {\n    font-size: 1.1em;\n    margin-bottom: 15px;\n  }\n  ul {\n    list-style-type: none;\n    padding: 0;\n  }\n  li {\n    padding: 10px 0;\n    border-bottom: 1px solid #333;\n  }\n  ol {\n    counter-reset: step-counter;\n    list-style: none;\n    padding: 0;\n  }\n  ol li {\n    counter-increment: step-counter;\n    position: relative;\n    padding-left: 50px;\n    margin-bottom: 25px;\n  }\n  ol li:before {\n    content: counter(step-counter);\n    position: absolute;\n    left: 0;\n    width: 30px;\n    height: 30px;\n    background: #00D4FF;\n    color: #0A2540;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    font-weight: bold;\n    font-size: 1em;\n  }\n  details {\n    background: #1E3A5F;\n    border-radius: 8px;\n    padding: 15px;\n    margin-bottom: 15px;\n  }\n  summary {\n    color: #00D4FF;\n    font-weight: bold;\n    cursor: pointer;\n    font-size: 1.1em;\n  }\n  @media (max-width: 600px) {\n    h1 { font-size: 2em; }\n    main { padding: 15px; }\n    ol li:before { width: 25px; height: 25px; font-size: 0.9em; }\n  }\n</style>\n\n\n<main>\n  <h1>魔戒</h1>\n  <p>专业的VPN加速器，助力您畅享全球网络</p>\n  <section>\n    <h2>品牌简介</h2>\n    <p>魔戒是一款专注于网络加速的服务，提供稳定、安全、高速的连接体验。通过先进的节点分布，帮助用户突破地域限制，获得优质网络体验。</p>\n  </section>\n  <section>\n    <h2>使用场景</h2>\n    <ul>\n      <li>• 全球流媒体解锁：Netflix、YouTube 等</li>\n      <li>• 游戏加速：多人在线游戏优化</li>\n      <li>• 远程办公：稳定低延迟连接</li>\n      <li>• 隐私保护与科学上网</li>\n    </ul>\n  </section>\n  <section>\n    <h2>操作说明</h2>\n    <ol>\n      <li>访问官网下载客户端</li>\n      <li>注册账号并选择套餐</li>\n      <li>安装并配置客户端</li>\n      <li>选择节点连接服务器</li>\n      <li>享受高速稳定网络</li>\n    </ol>\n    <p>强调：根据您的需求选择适合的客户端版本，如支持多设备的旗舰版。</p>\n  </section>\n  <section>\n    <h2>套餐选择</h2>\n    {{PLANS_HTML}}\n  </section>\n  <section>\n    <h2>客户端下载</h2>\n    {{CLIENTS_HTML}}\n  </section>\n  <section>\n    <h2>常见问题</h2>\n    <details>\n      <summary>什么是魔戒VPN？</summary>\n      <p>魔戒VPN是一款专业的网络加速器，提供稳定高速的连接服务，帮助用户突破地域限制并享受优质网络体验。</p>\n    </details>\n    <details>\n      <summary>如何选择套餐？</summary>\n      <p>根据您的流量需求、设备数量和使用场景选择基础版、旗舰版或团队版。旗舰版适合重度用户。</p>\n    </details>\n    <details>\n      <summary>支持哪些设备？</summary>\n      <p>基础版支持3台设备，旗舰版支持5台，团队版支持20台设备同时在线。</p>\n    </details>\n    <details>\n      <summary>节点分布如何？</summary>\n      <p>提供全球多个线路节点，包括普通线路和IPLC专线节点，根据套餐级别优化。</p>\n    </details>\n    <details>\n      <summary>售后服务如何？</summary>\n      <p>提供7x24优先工单支持，团队版有专属客户经理服务。</p>\n    </details>\n  </section>\n</main>\n\n",
+          "hash": "a70f5fb59d526575bcb7dc8a6c24bfcf24a01cf51b463fe91e2b4c1d053105b0",
+          "seo": {
+            "title": "魔戒 VPN | 专业网络加速器 客户端下载 官网",
+            "keywords": "魔戒VPN, 魔戒加速器, VPN, 机场, 客户端下载, 网络加速",
+            "description": "魔戒VPN提供基础版、旗舰版、团队版套餐，涵盖极速流量、设备支持、流媒体解锁等功能。立即下载官方客户端，享受稳定高速的网络加速服务。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "miaotk.cn",
+    "host": "web.miaotk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "miaotk.cn",
+      "url": "https://miaotk.cn/",
+      "label": "少数派",
+      "apex": "miaotk.cn",
+      "kind": null,
+      "identity": "bfyahuuga/page-bbdd0c35152c7a4436e430fb"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4a8f009aeea7593ac1b4452739930bf2c2f809e9e52a2bc6b7d81f7de3ffcd27",
+    "sitemap.xml": "c027949876b3937bb85df633150e1fc5dcd97a842d3943cbbcf79bd0a3431dec",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ed621ee9a5a62dd366885bc56588cdd2e0c18247c4299f0e1f60a1db5b85039d",
+    "robots.txt": "ae5b6b56934e068a9c812bc159ba074c0ce25743d04c3d72283b5f9e3c5039c4",
+    "5574625378fe8a39f2229f3d9370338b.txt": "800251c8c72f05df1ee23e7160bd24bbe8e4fd324c57b713ea04f5953ecc5787"
+  },
+  "revision": "29a56f57973020f1f81728b800000c7171c16d48b144c1c741e6dcd5832dda31"
+}
